@@ -1,4 +1,4 @@
-Complexo de laboratórios CCSA
+**Complexo de laboratórios CCSA:**
 
 Serão 4 grupos de pesquisa para o complexo de laboratórios:
 
