@@ -14,7 +14,7 @@ Ou seja, um total de 66 pessoas atendidas pelo serviços técnicos de redes ofer
 <img src="Ficha técnica de equipamentos.jpeg">
 
 Os endereços de IP públicos de cada grupo são, respectivamente:
-1 - http://98.80.72.55/
-2 - http://13.222.129.165/
-3 - http://75.101.231.175/
-4 - http://3.235.184.192/
+- http://98.80.72.55/
+- http://13.222.129.165/
+- http://75.101.231.175/
+- http://3.235.184.192/
