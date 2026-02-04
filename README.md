@@ -2,7 +2,7 @@ Complexo de laboratórios CCSA
 
 Serão 4 grupos de pesquisa para o complexo de laboratórios:
 
-<img src="Imagem-condominio">
+<img src="Condominio laboratorios">
 
 * 1 - Grupo de Estudo e Pesquisa em Trabalho, Questão Social e Movimento Social (GETEQ) => 28 pessoas.
 * 2 - EDUCAÇÃO, FORMAÇÃO, PROCESSO DE TRABALHO E RELAÇÕES DE GÊNERO => 17 pessoas.
