@@ -14,7 +14,7 @@ Ou seja, um total de 66 pessoas atendidas pelo serviços técnicos de redes ofer
 <img src="Ficha técnica de equipamentos.jpeg">
 
 Os endereços de IP públicos de cada grupo são, respectivamente:
-- http://98.80.72.55/
-- http://13.222.129.165/
-- http://75.101.231.175/
-- http://3.235.184.192/
+- Grupo de Estudo e Pesquisa em Trabalho, Questão Social e Movimento Social: http://98.80.72.55/
+- EDUCAÇÃO, FORMAÇÃO, PROCESSO DE TRABALHO E RELAÇÕES DE GÊNERO: http://13.222.129.165/
+- Gestão de Turismo e Hospitalidade: http://75.101.231.175/
+- Centro de Pesquisas Jurídicas e de Estratégias Públicas e Privadas Antidiscriminação - CEPEJE Antidiscriminação: http://3.235.184.192/
